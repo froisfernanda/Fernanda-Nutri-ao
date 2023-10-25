@@ -5,12 +5,13 @@
 body{
 	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	font-size: 14px;
+	background-color :#d8eae8
 }
 
 header{
 	background-color: #229690;
 	height: 3em;
-	color: #d8e8ee;
+	color: #fbfbfb;
 	margin-bottom: 1em;
 }
 
@@ -81,17 +82,17 @@ table{
 td, th {
 	padding: .7em;
 	margin: 0;
-	border: 1px solid #ccc;
+	border: 1px solid #4fd9e3;
 	text-align: center;
 }
 
 th{
 	font-weight: bold;
-	background-color: #EEE;
+	background-color: #93f5f2;
 }
 
 label{
-	color: #555;
+	color: #222020;
 	display: block;
 	margin-bottom: .2em;
 }
@@ -100,7 +101,7 @@ label{
 	margin: 0;
 	padding-bottom: 1em;
 	width: 100%;
-	border: 1px solid #ccc;
+	border: 1px solid #8ed7e6;
 	padding: .7em;
 	width: 100%;
 }
@@ -120,7 +121,7 @@ label{
 	margin: 0;
 	padding-bottom: 1em;
 	width: 100%;
-	border: 1px solid #ccc;
+	border: 1px solid #6fcbde;
 	padding: .7em;
 	width: 100%;
 }
@@ -133,9 +134,9 @@ button{
 	cursor: pointer;
 	margin: 0;
 	margin-top: -3px;
-	color: #fff;
-	background-color:#0c8cd3;
-	border-color: #04324c;
+	color: #259493;
+	background-color:#99effa;
+	border-color: #32dfec;
 	width: 20%;
     display: block;
     clear: both;
